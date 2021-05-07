@@ -3,7 +3,7 @@
 請將_清理FiveM快取.bat_放在 FiveM Application Data 綠色蝸牛 不要使用管理員權限執行 放入後直接執行
 
 
-windows系統清理. 放哪裡都可以右鍵管理員權限執行 
+windows系統清理.bat 放哪裡都可以右鍵管理員權限執行 
 
 全由光頭自做 potol#7325
 
